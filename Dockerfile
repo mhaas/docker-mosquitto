@@ -1,4 +1,4 @@
-FROM ioft/armhf-debian
+FROM debian:jessie
 # Inspired by examples from the Docker Hub, e.g.
 # https://hub.docker.com/r/aexea/mosquitto/~/dockerfile/
 # and https://hub.docker.com/r/toke/mosquitto/
